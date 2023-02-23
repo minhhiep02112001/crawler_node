@@ -1,0 +1,25 @@
+{
+  "name": "crawl-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.2",
+    "cheerio": "^1.0.0-rc.12",
+    "form-data": "^4.0.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3", 
+    "puppeteer": "^19.4.0",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-stealth": "^2.11.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "xmlhttprequest": "^1.8.0"
+  } 
+}

@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/obsessed-with-regressors.jpg]
+
+File to: [./zinmanga/uploads/obsessed-with-regressors.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/obsessed-with-regressors.jpg ./zinmanga/images/obsessed-with-regressors.jpg
+Unrecognized input file format --- perhaps you need -targa

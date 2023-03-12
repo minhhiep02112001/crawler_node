@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/worldwide-simulation-era.jpg]
+
+File to: [./zinmanga/uploads/worldwide-simulation-era.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/worldwide-simulation-era.jpg ./zinmanga/images/worldwide-simulation-era.jpg
+Unrecognized input file format --- perhaps you need -targa

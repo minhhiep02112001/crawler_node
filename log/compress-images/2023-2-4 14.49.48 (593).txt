@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/hottricked-into-becoming-the-heroines-stepmother.jpg]
+
+File to: [./zinmanga/uploads/hottricked-into-becoming-the-heroines-stepmother.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/hottricked-into-becoming-the-heroines-stepmother.jpg ./zinmanga/images/hottricked-into-becoming-the-heroines-stepmother.jpg
+Unrecognized input file format --- perhaps you need -targa

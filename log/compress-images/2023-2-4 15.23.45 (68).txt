@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/winter-moon.jpg]
+
+File to: [./zinmanga/uploads/winter-moon.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/winter-moon.jpg ./zinmanga/images/winter-moon.jpg
+Unrecognized input file format --- perhaps you need -targa

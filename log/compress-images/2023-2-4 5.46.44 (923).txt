@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/worlds-greatest-senior-disciple.jpg]
+
+File to: [./zinmanga/uploads/worlds-greatest-senior-disciple.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/worlds-greatest-senior-disciple.jpg ./zinmanga/images/worlds-greatest-senior-disciple.jpg
+Unrecognized input file format --- perhaps you need -targa

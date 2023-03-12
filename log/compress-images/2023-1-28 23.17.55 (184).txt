@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/i-will-fall-with-the-emperor.jpg]
+
+File to: [./zinmanga/uploads/i-will-fall-with-the-emperor.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/i-will-fall-with-the-emperor.jpg ./zinmanga/images/i-will-fall-with-the-emperor.jpg
+Unrecognized input file format --- perhaps you need -targa

@@ -1,0 +1,16 @@
+File from: [./zinmanga/images/sayonara-children.jpg]
+
+File to: [./zinmanga/uploads/sayonara-children.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/sayonara-children.jpg ./zinmanga/images/sayonara-children.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [./zinmanga/images/the-sword-tomb.jpg]
+
+File to: [./zinmanga/uploads/the-sword-tomb.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/the-sword-tomb.jpg ./zinmanga/images/the-sword-tomb.jpg
+Unrecognized input file format --- perhaps you need -targa

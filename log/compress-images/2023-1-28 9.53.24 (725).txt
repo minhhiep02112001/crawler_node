@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/i-dont-need-a-husband.jpg]
+
+File to: [./zinmanga/uploads/i-dont-need-a-husband.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/i-dont-need-a-husband.jpg ./zinmanga/images/i-dont-need-a-husband.jpg
+Unrecognized input file format --- perhaps you need -targa

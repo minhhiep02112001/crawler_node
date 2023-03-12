@@ -1,0 +1,16 @@
+File from: [./zinmanga/images/the-things-melvin-left-behind-for-them.jpg]
+
+File to: [./zinmanga/uploads/the-things-melvin-left-behind-for-them.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/the-things-melvin-left-behind-for-them.jpg ./zinmanga/images/the-things-melvin-left-behind-for-them.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [./zinmanga/images/how-to-survive-sleeping-with-the-emperor.jpg]
+
+File to: [./zinmanga/uploads/how-to-survive-sleeping-with-the-emperor.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/how-to-survive-sleeping-with-the-emperor.jpg ./zinmanga/images/how-to-survive-sleeping-with-the-emperor.jpg
+Unrecognized input file format --- perhaps you need -targa

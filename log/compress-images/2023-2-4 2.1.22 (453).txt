@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/dad-asked-me-to-choose-one-of-ten-goddesses-to-marry.jpg]
+
+File to: [./zinmanga/uploads/dad-asked-me-to-choose-one-of-ten-goddesses-to-marry.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/dad-asked-me-to-choose-one-of-ten-goddesses-to-marry.jpg ./zinmanga/images/dad-asked-me-to-choose-one-of-ten-goddesses-to-marry.jpg
+Unrecognized input file format --- perhaps you need -targa

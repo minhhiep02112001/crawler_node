@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/the-princesss-shop.jpg]
+
+File to: [./zinmanga/uploads/the-princesss-shop.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/the-princesss-shop.jpg ./zinmanga/images/the-princesss-shop.jpg
+Unrecognized input file format --- perhaps you need -targa

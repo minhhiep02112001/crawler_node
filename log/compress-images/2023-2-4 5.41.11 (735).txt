@@ -1,0 +1,16 @@
+File from: [./zinmanga/images/i-became-a-devil-one-day.jpg]
+
+File to: [./zinmanga/uploads/i-became-a-devil-one-day.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/i-became-a-devil-one-day.jpg ./zinmanga/images/i-became-a-devil-one-day.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [./zinmanga/images/paladin-dad.jpg]
+
+File to: [./zinmanga/uploads/paladin-dad.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/paladin-dad.jpg ./zinmanga/images/paladin-dad.jpg
+Unrecognized input file format --- perhaps you need -targa

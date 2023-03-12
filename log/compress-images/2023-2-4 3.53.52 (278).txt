@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/the-widowed-empress-needs-her-romance.jpg]
+
+File to: [./zinmanga/uploads/the-widowed-empress-needs-her-romance.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/the-widowed-empress-needs-her-romance.jpg ./zinmanga/images/the-widowed-empress-needs-her-romance.jpg
+Unrecognized input file format --- perhaps you need -targa

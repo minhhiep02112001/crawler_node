@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/genius-warlock.jpg]
+
+File to: [./zinmanga/uploads/genius-warlock.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/genius-warlock.jpg ./zinmanga/images/genius-warlock.jpg
+Unrecognized input file format --- perhaps you need -targa

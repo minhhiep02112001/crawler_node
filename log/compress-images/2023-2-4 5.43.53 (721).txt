@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/the-fragrant-flower-blooms-with-dignity.jpg]
+
+File to: [./zinmanga/uploads/the-fragrant-flower-blooms-with-dignity.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/the-fragrant-flower-blooms-with-dignity.jpg ./zinmanga/images/the-fragrant-flower-blooms-with-dignity.jpg
+Unrecognized input file format --- perhaps you need -targa

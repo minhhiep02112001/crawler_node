@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/the-villainess-lives-twice.jpg]
+
+File to: [./zinmanga/uploads/the-villainess-lives-twice.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/the-villainess-lives-twice.jpg ./zinmanga/images/the-villainess-lives-twice.jpg
+Unrecognized input file format --- perhaps you need -targa

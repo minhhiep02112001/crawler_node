@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/the-side-characters-cheating-system.jpg]
+
+File to: [./zinmanga/uploads/the-side-characters-cheating-system.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/the-side-characters-cheating-system.jpg ./zinmanga/images/the-side-characters-cheating-system.jpg
+Unrecognized input file format --- perhaps you need -targa

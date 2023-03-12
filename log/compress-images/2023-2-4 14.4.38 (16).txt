@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/the-comic-changes-my-destiny.jpg]
+
+File to: [./zinmanga/uploads/the-comic-changes-my-destiny.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/the-comic-changes-my-destiny.jpg ./zinmanga/images/the-comic-changes-my-destiny.jpg
+Unrecognized input file format --- perhaps you need -targa

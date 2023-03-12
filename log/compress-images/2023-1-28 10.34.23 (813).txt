@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/for-the-butterfly-that-disappeared.jpg]
+
+File to: [./zinmanga/uploads/for-the-butterfly-that-disappeared.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/for-the-butterfly-that-disappeared.jpg ./zinmanga/images/for-the-butterfly-that-disappeared.jpg
+Unrecognized input file format --- perhaps you need -targa

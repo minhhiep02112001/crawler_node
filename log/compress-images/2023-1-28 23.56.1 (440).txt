@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/our-tyrant-became-young.jpg]
+
+File to: [./zinmanga/uploads/our-tyrant-became-young.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/our-tyrant-became-young.jpg ./zinmanga/images/our-tyrant-became-young.jpg
+Unrecognized input file format --- perhaps you need -targa

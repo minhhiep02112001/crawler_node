@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/became-the-tyrants-companion-rabbit.jpg]
+
+File to: [./zinmanga/uploads/became-the-tyrants-companion-rabbit.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/became-the-tyrants-companion-rabbit.jpg ./zinmanga/images/became-the-tyrants-companion-rabbit.jpg
+Unrecognized input file format --- perhaps you need -targa

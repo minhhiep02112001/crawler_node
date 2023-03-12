@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/the-more-i-kill-the-stronger-i-get.jpg]
+
+File to: [./zinmanga/uploads/the-more-i-kill-the-stronger-i-get.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/the-more-i-kill-the-stronger-i-get.jpg ./zinmanga/images/the-more-i-kill-the-stronger-i-get.jpg
+Unrecognized input file format --- perhaps you need -targa

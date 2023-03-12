@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/the-real-rich-daughter-is-exposed-at-a-variety-show.jpg]
+
+File to: [./zinmanga/uploads/the-real-rich-daughter-is-exposed-at-a-variety-show.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/the-real-rich-daughter-is-exposed-at-a-variety-show.jpg ./zinmanga/images/the-real-rich-daughter-is-exposed-at-a-variety-show.jpg
+Unrecognized input file format --- perhaps you need -targa

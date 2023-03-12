@@ -1,0 +1,16 @@
+File from: [./zinmanga/images/the-12-oclock-cinderella.jpg]
+
+File to: [./zinmanga/uploads/the-12-oclock-cinderella.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/the-12-oclock-cinderella.jpg ./zinmanga/images/the-12-oclock-cinderella.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [./zinmanga/images/wished-you-were-dead.jpg]
+
+File to: [./zinmanga/uploads/wished-you-were-dead.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/wished-you-were-dead.jpg ./zinmanga/images/wished-you-were-dead.jpg
+Unrecognized input file format --- perhaps you need -targa

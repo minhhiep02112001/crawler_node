@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/the-obsessive-maniac-is-trying-to-confine-me.jpg]
+
+File to: [./zinmanga/uploads/the-obsessive-maniac-is-trying-to-confine-me.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/the-obsessive-maniac-is-trying-to-confine-me.jpg ./zinmanga/images/the-obsessive-maniac-is-trying-to-confine-me.jpg
+Unrecognized input file format --- perhaps you need -targa

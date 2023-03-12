@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/heavenly-roommates.jpg]
+
+File to: [./zinmanga/uploads/heavenly-roommates.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/heavenly-roommates.jpg ./zinmanga/images/heavenly-roommates.jpg
+Unrecognized input file format --- perhaps you need -targa

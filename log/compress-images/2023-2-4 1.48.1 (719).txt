@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/its-just-a-dreamright.jpg]
+
+File to: [./zinmanga/uploads/its-just-a-dreamright.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/its-just-a-dreamright.jpg ./zinmanga/images/its-just-a-dreamright.jpg
+Unrecognized input file format --- perhaps you need -targa

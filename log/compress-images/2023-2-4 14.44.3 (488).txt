@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/the-creator-is-on-hiatus.jpg]
+
+File to: [./zinmanga/uploads/the-creator-is-on-hiatus.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/the-creator-is-on-hiatus.jpg ./zinmanga/images/the-creator-is-on-hiatus.jpg
+Unrecognized input file format --- perhaps you need -targa

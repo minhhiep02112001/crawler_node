@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/i-just-want-to-practice-alchemy-and-become-a-god.jpg]
+
+File to: [./zinmanga/uploads/i-just-want-to-practice-alchemy-and-become-a-god.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/i-just-want-to-practice-alchemy-and-become-a-god.jpg ./zinmanga/images/i-just-want-to-practice-alchemy-and-become-a-god.jpg
+Unrecognized input file format --- perhaps you need -targa

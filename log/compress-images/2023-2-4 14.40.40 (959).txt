@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/although-i-obtained-a-rare-profession-im-being-hunt-down-by-the-whole-server.jpg]
+
+File to: [./zinmanga/uploads/although-i-obtained-a-rare-profession-im-being-hunt-down-by-the-whole-server.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/although-i-obtained-a-rare-profession-im-being-hunt-down-by-the-whole-server.jpg ./zinmanga/images/although-i-obtained-a-rare-profession-im-being-hunt-down-by-the-whole-server.jpg
+Unrecognized input file format --- perhaps you need -targa

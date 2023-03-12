@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/i-copied-peerless-divine-arts-in-another-world.jpg]
+
+File to: [./zinmanga/uploads/i-copied-peerless-divine-arts-in-another-world.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/i-copied-peerless-divine-arts-in-another-world.jpg ./zinmanga/images/i-copied-peerless-divine-arts-in-another-world.jpg
+Unrecognized input file format --- perhaps you need -targa

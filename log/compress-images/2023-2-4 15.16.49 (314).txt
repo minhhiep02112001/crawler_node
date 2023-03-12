@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/im-a-godfather-in-another-world.jpg]
+
+File to: [./zinmanga/uploads/im-a-godfather-in-another-world.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/im-a-godfather-in-another-world.jpg ./zinmanga/images/im-a-godfather-in-another-world.jpg
+Unrecognized input file format --- perhaps you need -targa

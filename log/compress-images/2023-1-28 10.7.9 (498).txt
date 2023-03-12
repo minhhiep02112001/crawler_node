@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/job-change-for-everyone-my-job-can-infinitely-evolve.jpg]
+
+File to: [./zinmanga/uploads/job-change-for-everyone-my-job-can-infinitely-evolve.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/job-change-for-everyone-my-job-can-infinitely-evolve.jpg ./zinmanga/images/job-change-for-everyone-my-job-can-infinitely-evolve.jpg
+Unrecognized input file format --- perhaps you need -targa

@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/love-of-flourishing-age.jpg]
+
+File to: [./zinmanga/uploads/love-of-flourishing-age.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/love-of-flourishing-age.jpg ./zinmanga/images/love-of-flourishing-age.jpg
+Unrecognized input file format --- perhaps you need -targa

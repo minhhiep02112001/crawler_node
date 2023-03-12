@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/80s-wife-is-sweet-and-sassy.jpg]
+
+File to: [./zinmanga/uploads/80s-wife-is-sweet-and-sassy.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/80s-wife-is-sweet-and-sassy.jpg ./zinmanga/images/80s-wife-is-sweet-and-sassy.jpg
+Unrecognized input file format --- perhaps you need -targa

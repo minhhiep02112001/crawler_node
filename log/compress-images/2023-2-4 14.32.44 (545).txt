@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/punishing-gray-raven-interlude.jpg]
+
+File to: [./zinmanga/uploads/punishing-gray-raven-interlude.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/punishing-gray-raven-interlude.jpg ./zinmanga/images/punishing-gray-raven-interlude.jpg
+Unrecognized input file format --- perhaps you need -targa

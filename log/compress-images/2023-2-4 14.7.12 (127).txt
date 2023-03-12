@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/night-owls-and-summer-skies.jpg]
+
+File to: [./zinmanga/uploads/night-owls-and-summer-skies.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/night-owls-and-summer-skies.jpg ./zinmanga/images/night-owls-and-summer-skies.jpg
+Unrecognized input file format --- perhaps you need -targa

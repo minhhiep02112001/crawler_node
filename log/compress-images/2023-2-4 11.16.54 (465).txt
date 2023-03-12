@@ -1,0 +1,40 @@
+File from: [./zinmanga/images/leave-the-work-to-me.jpg]
+
+File to: [./zinmanga/uploads/leave-the-work-to-me.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/leave-the-work-to-me.jpg ./zinmanga/images/leave-the-work-to-me.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [./zinmanga/images/im-not-a-warrior.jpg]
+
+File to: [./zinmanga/uploads/im-not-a-warrior.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/im-not-a-warrior.jpg ./zinmanga/images/im-not-a-warrior.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [./zinmanga/images/i-became-a-devil-one-day.jpg]
+
+File to: [./zinmanga/uploads/i-became-a-devil-one-day.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/i-became-a-devil-one-day.jpg ./zinmanga/images/i-became-a-devil-one-day.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [./zinmanga/images/a-returners-magic-should-be-special.jpg]
+
+File to: [./zinmanga/uploads/a-returners-magic-should-be-special.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/a-returners-magic-should-be-special.jpg ./zinmanga/images/a-returners-magic-should-be-special.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [./zinmanga/images/baozhao-mengzhu-qiao-mo-tou.jpg]
+
+File to: [./zinmanga/uploads/baozhao-mengzhu-qiao-mo-tou.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/baozhao-mengzhu-qiao-mo-tou.jpg ./zinmanga/images/baozhao-mengzhu-qiao-mo-tou.jpg
+GIF input is unsupported for legal reasons.  Sorry.

@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/player-who-returned-10000-years-later.jpg]
+
+File to: [./zinmanga/uploads/player-who-returned-10000-years-later.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/player-who-returned-10000-years-later.jpg ./zinmanga/images/player-who-returned-10000-years-later.jpg
+Unrecognized input file format --- perhaps you need -targa

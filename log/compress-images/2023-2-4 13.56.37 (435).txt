@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/it-all-starts-with-trillions-of-nether-currency.jpg]
+
+File to: [./zinmanga/uploads/it-all-starts-with-trillions-of-nether-currency.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/it-all-starts-with-trillions-of-nether-currency.jpg ./zinmanga/images/it-all-starts-with-trillions-of-nether-currency.jpg
+Unrecognized input file format --- perhaps you need -targa

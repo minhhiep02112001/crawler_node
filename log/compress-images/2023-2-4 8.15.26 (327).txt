@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/the-tutorial-is-too-tough.jpg]
+
+File to: [./zinmanga/uploads/the-tutorial-is-too-tough.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/the-tutorial-is-too-tough.jpg ./zinmanga/images/the-tutorial-is-too-tough.jpg
+Unrecognized input file format --- perhaps you need -targa

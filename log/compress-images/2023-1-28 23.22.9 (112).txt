@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/when-i-quit-being-a-wicked-motherinlaw-everyone-became-obsessed-with-me.jpg]
+
+File to: [./zinmanga/uploads/when-i-quit-being-a-wicked-motherinlaw-everyone-became-obsessed-with-me.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/when-i-quit-being-a-wicked-motherinlaw-everyone-became-obsessed-with-me.jpg ./zinmanga/images/when-i-quit-being-a-wicked-motherinlaw-everyone-became-obsessed-with-me.jpg
+Unrecognized input file format --- perhaps you need -targa

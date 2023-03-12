@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/dont-pick-up-the-trash-you-threw-away.jpg]
+
+File to: [./zinmanga/uploads/dont-pick-up-the-trash-you-threw-away.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/dont-pick-up-the-trash-you-threw-away.jpg ./zinmanga/images/dont-pick-up-the-trash-you-threw-away.jpg
+Unrecognized input file format --- perhaps you need -targa

@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/otherworldly-magical-daoist-priest.jpg]
+
+File to: [./zinmanga/uploads/otherworldly-magical-daoist-priest.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/otherworldly-magical-daoist-priest.jpg ./zinmanga/images/otherworldly-magical-daoist-priest.jpg
+Unrecognized input file format --- perhaps you need -targa

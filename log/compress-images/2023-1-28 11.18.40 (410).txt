@@ -1,0 +1,16 @@
+File from: [./zinmanga/images/i-created-a-wealthy-island-by-fishing.jpg]
+
+File to: [./zinmanga/uploads/i-created-a-wealthy-island-by-fishing.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/i-created-a-wealthy-island-by-fishing.jpg ./zinmanga/images/i-created-a-wealthy-island-by-fishing.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [./zinmanga/images/he-loved-my-sister.jpg]
+
+File to: [./zinmanga/uploads/he-loved-my-sister.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/he-loved-my-sister.jpg ./zinmanga/images/he-loved-my-sister.jpg
+Unrecognized input file format --- perhaps you need -targa

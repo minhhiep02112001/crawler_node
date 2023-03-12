@@ -1,0 +1,16 @@
+File from: [./zinmanga/images/bound-by-ones-heart.jpg]
+
+File to: [./zinmanga/uploads/bound-by-ones-heart.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/bound-by-ones-heart.jpg ./zinmanga/images/bound-by-ones-heart.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [./zinmanga/images/the-sword-tomb.jpg]
+
+File to: [./zinmanga/uploads/the-sword-tomb.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/the-sword-tomb.jpg ./zinmanga/images/the-sword-tomb.jpg
+Unrecognized input file format --- perhaps you need -targa

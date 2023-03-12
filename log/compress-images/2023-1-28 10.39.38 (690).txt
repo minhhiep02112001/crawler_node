@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/the-male-lead-with-a-split-personality-is-trying-to-kill-me.jpg]
+
+File to: [./zinmanga/uploads/the-male-lead-with-a-split-personality-is-trying-to-kill-me.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/the-male-lead-with-a-split-personality-is-trying-to-kill-me.jpg ./zinmanga/images/the-male-lead-with-a-split-personality-is-trying-to-kill-me.jpg
+Unrecognized input file format --- perhaps you need -targa

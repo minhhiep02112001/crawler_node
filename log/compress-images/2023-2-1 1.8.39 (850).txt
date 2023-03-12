@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/when-the-dragon-king-falls-for-the-loli-alchemist.jpg]
+
+File to: [./zinmanga/uploads/when-the-dragon-king-falls-for-the-loli-alchemist.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/when-the-dragon-king-falls-for-the-loli-alchemist.jpg ./zinmanga/images/when-the-dragon-king-falls-for-the-loli-alchemist.jpg
+Unrecognized input file format --- perhaps you need -targa

@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/the-duke-of-ashleyans-contractual-marriage.jpg]
+
+File to: [./zinmanga/uploads/the-duke-of-ashleyans-contractual-marriage.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/the-duke-of-ashleyans-contractual-marriage.jpg ./zinmanga/images/the-duke-of-ashleyans-contractual-marriage.jpg
+Unrecognized input file format --- perhaps you need -targa

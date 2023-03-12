@@ -1,0 +1,16 @@
+File from: [./zinmanga/images/emperors-evil-wife.jpg]
+
+File to: [./zinmanga/uploads/emperors-evil-wife.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/emperors-evil-wife.jpg ./zinmanga/images/emperors-evil-wife.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [./zinmanga/images/the-sword-tomb.jpg]
+
+File to: [./zinmanga/uploads/the-sword-tomb.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/the-sword-tomb.jpg ./zinmanga/images/the-sword-tomb.jpg
+Unrecognized input file format --- perhaps you need -targa

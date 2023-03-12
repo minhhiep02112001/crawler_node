@@ -1,0 +1,16 @@
+File from: [./zinmanga/images/the-garden-of-red-flowers.jpg]
+
+File to: [./zinmanga/uploads/the-garden-of-red-flowers.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/the-garden-of-red-flowers.jpg ./zinmanga/images/the-garden-of-red-flowers.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [./zinmanga/images/please-love-me-gentle.jpg]
+
+File to: [./zinmanga/uploads/please-love-me-gentle.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/please-love-me-gentle.jpg ./zinmanga/images/please-love-me-gentle.jpg
+Unrecognized input file format --- perhaps you need -targa

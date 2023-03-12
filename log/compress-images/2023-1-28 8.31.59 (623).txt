@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/if-you-wish-for-something-useless.jpg]
+
+File to: [./zinmanga/uploads/if-you-wish-for-something-useless.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/if-you-wish-for-something-useless.jpg ./zinmanga/images/if-you-wish-for-something-useless.jpg
+Unrecognized input file format --- perhaps you need -targa

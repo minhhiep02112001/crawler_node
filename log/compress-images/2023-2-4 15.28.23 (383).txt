@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/demon-wolf-husband-needs-discipline.jpg]
+
+File to: [./zinmanga/uploads/demon-wolf-husband-needs-discipline.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/demon-wolf-husband-needs-discipline.jpg ./zinmanga/images/demon-wolf-husband-needs-discipline.jpg
+Unrecognized input file format --- perhaps you need -targa

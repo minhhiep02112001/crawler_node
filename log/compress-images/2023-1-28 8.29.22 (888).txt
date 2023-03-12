@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/divorce-will-be-completed-in-3-seconds.jpg]
+
+File to: [./zinmanga/uploads/divorce-will-be-completed-in-3-seconds.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/divorce-will-be-completed-in-3-seconds.jpg ./zinmanga/images/divorce-will-be-completed-in-3-seconds.jpg
+Unrecognized input file format --- perhaps you need -targa

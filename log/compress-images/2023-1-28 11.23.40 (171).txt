@@ -1,0 +1,16 @@
+File from: [./zinmanga/images/i-became-the-tyrant-of-a-defense-game.jpg]
+
+File to: [./zinmanga/uploads/i-became-the-tyrant-of-a-defense-game.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/i-became-the-tyrant-of-a-defense-game.jpg ./zinmanga/images/i-became-the-tyrant-of-a-defense-game.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [./zinmanga/images/he-loved-my-sister.jpg]
+
+File to: [./zinmanga/uploads/he-loved-my-sister.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/he-loved-my-sister.jpg ./zinmanga/images/he-loved-my-sister.jpg
+Unrecognized input file format --- perhaps you need -targa

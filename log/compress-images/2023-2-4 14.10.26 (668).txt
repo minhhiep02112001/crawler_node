@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/marriage-contract-with-my-sadistic-ceo.jpg]
+
+File to: [./zinmanga/uploads/marriage-contract-with-my-sadistic-ceo.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/marriage-contract-with-my-sadistic-ceo.jpg ./zinmanga/images/marriage-contract-with-my-sadistic-ceo.jpg
+Unrecognized input file format --- perhaps you need -targa

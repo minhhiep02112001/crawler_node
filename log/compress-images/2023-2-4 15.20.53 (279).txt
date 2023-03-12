@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/tyrants-tears.jpg]
+
+File to: [./zinmanga/uploads/tyrants-tears.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/tyrants-tears.jpg ./zinmanga/images/tyrants-tears.jpg
+Unrecognized input file format --- perhaps you need -targa

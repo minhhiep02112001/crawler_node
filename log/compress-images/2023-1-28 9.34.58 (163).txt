@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/the-grand-secretarys-pampered-wife.jpg]
+
+File to: [./zinmanga/uploads/the-grand-secretarys-pampered-wife.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/the-grand-secretarys-pampered-wife.jpg ./zinmanga/images/the-grand-secretarys-pampered-wife.jpg
+Unrecognized input file format --- perhaps you need -targa

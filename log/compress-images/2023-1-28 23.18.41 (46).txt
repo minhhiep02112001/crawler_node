@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/second-life-of-a-trash-princess.jpg]
+
+File to: [./zinmanga/uploads/second-life-of-a-trash-princess.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/second-life-of-a-trash-princess.jpg ./zinmanga/images/second-life-of-a-trash-princess.jpg
+Unrecognized input file format --- perhaps you need -targa

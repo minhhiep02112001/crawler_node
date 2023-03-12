@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/hot-the-amazing-doctor-in-the-city.jpg]
+
+File to: [./zinmanga/uploads/hot-the-amazing-doctor-in-the-city.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/hot-the-amazing-doctor-in-the-city.jpg ./zinmanga/images/hot-the-amazing-doctor-in-the-city.jpg
+Unrecognized input file format --- perhaps you need -targa

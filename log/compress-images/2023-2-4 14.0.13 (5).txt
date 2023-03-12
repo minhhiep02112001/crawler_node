@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/the-way-that-knight-lives-as-a-lady.jpg]
+
+File to: [./zinmanga/uploads/the-way-that-knight-lives-as-a-lady.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/the-way-that-knight-lives-as-a-lady.jpg ./zinmanga/images/the-way-that-knight-lives-as-a-lady.jpg
+Unrecognized input file format --- perhaps you need -targa

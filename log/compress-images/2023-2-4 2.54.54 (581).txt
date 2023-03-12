@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/drama-writer-who-reads-spoilers.jpg]
+
+File to: [./zinmanga/uploads/drama-writer-who-reads-spoilers.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/drama-writer-who-reads-spoilers.jpg ./zinmanga/images/drama-writer-who-reads-spoilers.jpg
+Unrecognized input file format --- perhaps you need -targa

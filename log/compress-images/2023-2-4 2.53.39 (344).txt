@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/solo-leveling.jpg]
+
+File to: [./zinmanga/uploads/solo-leveling.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/solo-leveling.jpg ./zinmanga/images/solo-leveling.jpg
+GIF input is unsupported for legal reasons.  Sorry.

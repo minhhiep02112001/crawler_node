@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/slimes-can-dream-too.jpg]
+
+File to: [./zinmanga/uploads/slimes-can-dream-too.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/slimes-can-dream-too.jpg ./zinmanga/images/slimes-can-dream-too.jpg
+Unrecognized input file format --- perhaps you need -targa

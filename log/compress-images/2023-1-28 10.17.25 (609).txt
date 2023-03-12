@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/i-got-divorced-as-soon-as-i-transmigrated-into-a-book.jpg]
+
+File to: [./zinmanga/uploads/i-got-divorced-as-soon-as-i-transmigrated-into-a-book.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/i-got-divorced-as-soon-as-i-transmigrated-into-a-book.jpg ./zinmanga/images/i-got-divorced-as-soon-as-i-transmigrated-into-a-book.jpg
+Unrecognized input file format --- perhaps you need -targa

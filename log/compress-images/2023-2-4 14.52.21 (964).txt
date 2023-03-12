@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/the-power-of-the-soul.jpg]
+
+File to: [./zinmanga/uploads/the-power-of-the-soul.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/the-power-of-the-soul.jpg ./zinmanga/images/the-power-of-the-soul.jpg
+Unrecognized input file format --- perhaps you need -targa

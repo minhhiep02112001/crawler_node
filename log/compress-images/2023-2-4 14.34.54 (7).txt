@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/the-flower-of-the-imperial-palace-is-crazy.jpg]
+
+File to: [./zinmanga/uploads/the-flower-of-the-imperial-palace-is-crazy.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/the-flower-of-the-imperial-palace-is-crazy.jpg ./zinmanga/images/the-flower-of-the-imperial-palace-is-crazy.jpg
+Unrecognized input file format --- perhaps you need -targa

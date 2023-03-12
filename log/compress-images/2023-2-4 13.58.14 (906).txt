@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/paradox-of-shadows-unreachable-you.jpg]
+
+File to: [./zinmanga/uploads/paradox-of-shadows-unreachable-you.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/paradox-of-shadows-unreachable-you.jpg ./zinmanga/images/paradox-of-shadows-unreachable-you.jpg
+Unrecognized input file format --- perhaps you need -targa

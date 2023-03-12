@@ -1,0 +1,24 @@
+File from: [./zinmanga/images/the-sword-tomb.jpg]
+
+File to: [./zinmanga/uploads/the-sword-tomb.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/the-sword-tomb.jpg ./zinmanga/images/the-sword-tomb.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [./zinmanga/images/i-do-livestreams-in-another-world.jpg]
+
+File to: [./zinmanga/uploads/i-do-livestreams-in-another-world.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/i-do-livestreams-in-another-world.jpg ./zinmanga/images/i-do-livestreams-in-another-world.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [./zinmanga/images/cant-help-falling-for-you.jpg]
+
+File to: [./zinmanga/uploads/cant-help-falling-for-you.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/cant-help-falling-for-you.jpg ./zinmanga/images/cant-help-falling-for-you.jpg
+Unrecognized input file format --- perhaps you need -targa

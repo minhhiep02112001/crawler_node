@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/this-hero-is-a-money-supremacist.jpg]
+
+File to: [./zinmanga/uploads/this-hero-is-a-money-supremacist.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/this-hero-is-a-money-supremacist.jpg ./zinmanga/images/this-hero-is-a-money-supremacist.jpg
+Unrecognized input file format --- perhaps you need -targa

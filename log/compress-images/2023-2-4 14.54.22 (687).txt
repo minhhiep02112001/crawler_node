@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/despite-being-a-magic-lord-i-still-believe-in-science.jpg]
+
+File to: [./zinmanga/uploads/despite-being-a-magic-lord-i-still-believe-in-science.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/despite-being-a-magic-lord-i-still-believe-in-science.jpg ./zinmanga/images/despite-being-a-magic-lord-i-still-believe-in-science.jpg
+Unrecognized input file format --- perhaps you need -targa

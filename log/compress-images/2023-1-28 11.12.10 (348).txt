@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/the-healer-is-fine-so-go-save-the-world.jpg]
+
+File to: [./zinmanga/uploads/the-healer-is-fine-so-go-save-the-world.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/the-healer-is-fine-so-go-save-the-world.jpg ./zinmanga/images/the-healer-is-fine-so-go-save-the-world.jpg
+Unrecognized input file format --- perhaps you need -targa

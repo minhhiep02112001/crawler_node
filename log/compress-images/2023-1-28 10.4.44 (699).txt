@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/duke-please-let-go-of-my-ankle-web-novel.jpg]
+
+File to: [./zinmanga/uploads/duke-please-let-go-of-my-ankle-web-novel.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/duke-please-let-go-of-my-ankle-web-novel.jpg ./zinmanga/images/duke-please-let-go-of-my-ankle-web-novel.jpg
+Unrecognized input file format --- perhaps you need -targa

@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/the-crazy-killer-whales-favourite-penguin.jpg]
+
+File to: [./zinmanga/uploads/the-crazy-killer-whales-favourite-penguin.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/the-crazy-killer-whales-favourite-penguin.jpg ./zinmanga/images/the-crazy-killer-whales-favourite-penguin.jpg
+Unrecognized input file format --- perhaps you need -targa

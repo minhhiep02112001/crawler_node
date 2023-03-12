@@ -1,0 +1,16 @@
+File from: [./zinmanga/images/the-teacher-of-perishable-villains.jpg]
+
+File to: [./zinmanga/uploads/the-teacher-of-perishable-villains.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/the-teacher-of-perishable-villains.jpg ./zinmanga/images/the-teacher-of-perishable-villains.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [./zinmanga/images/deal-with-a-bad-boy.jpg]
+
+File to: [./zinmanga/uploads/deal-with-a-bad-boy.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/deal-with-a-bad-boy.jpg ./zinmanga/images/deal-with-a-bad-boy.jpg
+Unrecognized input file format --- perhaps you need -targa

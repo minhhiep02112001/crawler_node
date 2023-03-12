@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/guardian-angel-for-the-cursed-duke.jpg]
+
+File to: [./zinmanga/uploads/guardian-angel-for-the-cursed-duke.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/guardian-angel-for-the-cursed-duke.jpg ./zinmanga/images/guardian-angel-for-the-cursed-duke.jpg
+Unrecognized input file format --- perhaps you need -targa

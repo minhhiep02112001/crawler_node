@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/beware-or-be-bitten.jpg]
+
+File to: [./zinmanga/uploads/beware-or-be-bitten.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/beware-or-be-bitten.jpg ./zinmanga/images/beware-or-be-bitten.jpg
+Unrecognized input file format --- perhaps you need -targa

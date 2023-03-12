@@ -1,0 +1,16 @@
+File from: [./zinmanga/images/memoir-of-the-legendary-scholar.jpg]
+
+File to: [./zinmanga/uploads/memoir-of-the-legendary-scholar.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/memoir-of-the-legendary-scholar.jpg ./zinmanga/images/memoir-of-the-legendary-scholar.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [./zinmanga/images/the-sword-tomb.jpg]
+
+File to: [./zinmanga/uploads/the-sword-tomb.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/the-sword-tomb.jpg ./zinmanga/images/the-sword-tomb.jpg
+Unrecognized input file format --- perhaps you need -targa

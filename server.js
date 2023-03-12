@@ -38,7 +38,6 @@ function sleep(ms) {
 
 
 (async () => {
-
     await crawler_chapter('https://animefenix.tv/ver/ooyukiumi-no-kaina-7');
     //
 })();
@@ -55,7 +54,9 @@ async function crawler_chapter(url) {
     const { executablePath } = require('puppeteer')
 
     // puppeteer usage as normal 
-    await puppeteer_extra.launch({ headless: false, executablePath: executablePath() }).then(async browser => {
+    await puppeteer_extra.launch({
+        headless: true, executablePath: executablePath(),
+    }).then(async browser => {
         try {
             const page = await browser.newPage()
             await page.goto(url)

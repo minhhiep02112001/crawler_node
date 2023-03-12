@@ -1,0 +1,8 @@
+File from: [./zinmanga/images/the-flower-dances-and-wind-sings.jpg]
+
+File to: [./zinmanga/uploads/the-flower-dances-and-wind-sings.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/the-flower-dances-and-wind-sings.jpg ./zinmanga/images/the-flower-dances-and-wind-sings.jpg
+Unrecognized input file format --- perhaps you need -targa

@@ -49,8 +49,8 @@ const domain_crawler = 'https://1stmanhwa.com';
 })();
 
 async function crawler_chapter_to_story() {
-    var storys = await getAllDataTable('st_story', 1000);
-
+    var storys = await getAllDataTable('st_story', 0);
+    
     for (let index = 0; index < storys.length; index++) {
         let item = storys[index];
         await crawler_story_chapter(item);
@@ -449,7 +449,7 @@ function convertToSlug(Text) {
 
 function getAllDataTable(table, offset = 0) {
     return new Promise((resolve, reject) => {
-        pool.query("SELECT id , crawler_href FROM " + table + " where website like 'https://1stmanhwa.com%' ORDER BY id ASC limit 200 offset " + offset, (err, data) => {
+        pool.query("SELECT id , crawler_href FROM " + table + " where website like 'https://1stmanhwa.com%' and total_chapter=0 ORDER BY id ASC limit 200 offset " + offset, (err, data) => {
             if (err) {
                 return reject(err);
             }

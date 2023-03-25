@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/run-away-from-my-exboyfriend.jpg]
-
-File to: [./zinmanga/uploads/run-away-from-my-exboyfriend.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/run-away-from-my-exboyfriend.jpg ./zinmanga/images/run-away-from-my-exboyfriend.jpg
-Unrecognized input file format --- perhaps you need -targa

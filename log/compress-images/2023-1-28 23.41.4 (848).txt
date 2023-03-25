@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/im-a-villainess-but-i-became-a-mother.jpg]
-
-File to: [./zinmanga/uploads/im-a-villainess-but-i-became-a-mother.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/im-a-villainess-but-i-became-a-mother.jpg ./zinmanga/images/im-a-villainess-but-i-became-a-mother.jpg
-Unrecognized input file format --- perhaps you need -targa

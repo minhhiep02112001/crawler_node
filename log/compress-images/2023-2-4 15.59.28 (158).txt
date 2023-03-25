@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/thousands-of-dreamless-years.jpg]
-
-File to: [./zinmanga/uploads/thousands-of-dreamless-years.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/thousands-of-dreamless-years.jpg ./zinmanga/images/thousands-of-dreamless-years.jpg
-Unrecognized input file format --- perhaps you need -targa

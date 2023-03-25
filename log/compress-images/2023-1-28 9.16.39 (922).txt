@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/i-thought-i-didnt-have-long-to-live.jpg]
-
-File to: [./zinmanga/uploads/i-thought-i-didnt-have-long-to-live.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/i-thought-i-didnt-have-long-to-live.jpg ./zinmanga/images/i-thought-i-didnt-have-long-to-live.jpg
-Unrecognized input file format --- perhaps you need -targa

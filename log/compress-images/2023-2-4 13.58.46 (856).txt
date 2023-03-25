@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/maybe-meant-to-be-maybe-meant-to-be.jpg]
-
-File to: [./zinmanga/uploads/maybe-meant-to-be-maybe-meant-to-be.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/maybe-meant-to-be-maybe-meant-to-be.jpg ./zinmanga/images/maybe-meant-to-be-maybe-meant-to-be.jpg
-Unrecognized input file format --- perhaps you need -targa

@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/to-hell-with-being-a-saint-im-a-doctor.jpg]
-
-File to: [./zinmanga/uploads/to-hell-with-being-a-saint-im-a-doctor.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/to-hell-with-being-a-saint-im-a-doctor.jpg ./zinmanga/images/to-hell-with-being-a-saint-im-a-doctor.jpg
-Unrecognized input file format --- perhaps you need -targa

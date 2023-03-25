@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/reincarnated-as-a-dragons-egg-lets-aim-to-be-the-strongest.jpg]
-
-File to: [./zinmanga/uploads/reincarnated-as-a-dragons-egg-lets-aim-to-be-the-strongest.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/reincarnated-as-a-dragons-egg-lets-aim-to-be-the-strongest.jpg ./zinmanga/images/reincarnated-as-a-dragons-egg-lets-aim-to-be-the-strongest.jpg
-Unrecognized input file format --- perhaps you need -targa

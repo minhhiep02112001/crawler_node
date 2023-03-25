@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/reborn-ranker-gravity-user-manga.jpg]
-
-File to: [./zinmanga/uploads/reborn-ranker-gravity-user-manga.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/reborn-ranker-gravity-user-manga.jpg ./zinmanga/images/reborn-ranker-gravity-user-manga.jpg
-Unrecognized input file format --- perhaps you need -targa

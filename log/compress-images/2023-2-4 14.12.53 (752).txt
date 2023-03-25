@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/shes-gone-viral-again.jpg]
-
-File to: [./zinmanga/uploads/shes-gone-viral-again.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/shes-gone-viral-again.jpg ./zinmanga/images/shes-gone-viral-again.jpg
-Unrecognized input file format --- perhaps you need -targa

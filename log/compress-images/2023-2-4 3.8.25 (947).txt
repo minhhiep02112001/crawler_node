@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/love-for-sale.jpg]
-
-File to: [./zinmanga/uploads/love-for-sale.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/love-for-sale.jpg ./zinmanga/images/love-for-sale.jpg
-Unrecognized input file format --- perhaps you need -targa

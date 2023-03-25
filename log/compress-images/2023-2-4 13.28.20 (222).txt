@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/virtual-reconstruction.jpg]
-
-File to: [./zinmanga/uploads/virtual-reconstruction.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/virtual-reconstruction.jpg ./zinmanga/images/virtual-reconstruction.jpg
-Unrecognized input file format --- perhaps you need -targa

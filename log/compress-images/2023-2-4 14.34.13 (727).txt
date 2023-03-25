@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/yubisaki-kara-honki-no-netsujou.jpg]
-
-File to: [./zinmanga/uploads/yubisaki-kara-honki-no-netsujou.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/yubisaki-kara-honki-no-netsujou.jpg ./zinmanga/images/yubisaki-kara-honki-no-netsujou.jpg
-Unrecognized input file format --- perhaps you need -targa

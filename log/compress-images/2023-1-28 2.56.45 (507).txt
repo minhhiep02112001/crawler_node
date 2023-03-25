@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/ill-make-it-a-bad-ending-like-a-villain.jpg]
-
-File to: [./zinmanga/uploads/ill-make-it-a-bad-ending-like-a-villain.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/ill-make-it-a-bad-ending-like-a-villain.jpg ./zinmanga/images/ill-make-it-a-bad-ending-like-a-villain.jpg
-Unrecognized input file format --- perhaps you need -targa

@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/creatures-in-the-mist.jpg]
-
-File to: [./zinmanga/uploads/creatures-in-the-mist.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/creatures-in-the-mist.jpg ./zinmanga/images/creatures-in-the-mist.jpg
-Unrecognized input file format --- perhaps you need -targa

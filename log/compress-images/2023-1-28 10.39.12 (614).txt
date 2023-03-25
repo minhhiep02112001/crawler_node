@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/i-have-the-aura-of-overbearing-president.jpg]
-
-File to: [./zinmanga/uploads/i-have-the-aura-of-overbearing-president.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/i-have-the-aura-of-overbearing-president.jpg ./zinmanga/images/i-have-the-aura-of-overbearing-president.jpg
-Unrecognized input file format --- perhaps you need -targa

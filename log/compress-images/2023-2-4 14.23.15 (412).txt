@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/golden-print.jpg]
-
-File to: [./zinmanga/uploads/golden-print.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/golden-print.jpg ./zinmanga/images/golden-print.jpg
-Unrecognized input file format --- perhaps you need -targa

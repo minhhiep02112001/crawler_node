@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/in-the-name-of-your-death.jpg]
-
-File to: [./zinmanga/uploads/in-the-name-of-your-death.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/in-the-name-of-your-death.jpg ./zinmanga/images/in-the-name-of-your-death.jpg
-Unrecognized input file format --- perhaps you need -targa

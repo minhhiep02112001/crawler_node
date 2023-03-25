@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/pharaohs-first-favorite-queen.jpg]
-
-File to: [./zinmanga/uploads/pharaohs-first-favorite-queen.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/pharaohs-first-favorite-queen.jpg ./zinmanga/images/pharaohs-first-favorite-queen.jpg
-Unrecognized input file format --- perhaps you need -targa

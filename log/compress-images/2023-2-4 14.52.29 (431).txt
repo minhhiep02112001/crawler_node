@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/the-heavenly-demon-will-turn-the-world-upside-down.jpg]
-
-File to: [./zinmanga/uploads/the-heavenly-demon-will-turn-the-world-upside-down.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/the-heavenly-demon-will-turn-the-world-upside-down.jpg ./zinmanga/images/the-heavenly-demon-will-turn-the-world-upside-down.jpg
-Unrecognized input file format --- perhaps you need -targa

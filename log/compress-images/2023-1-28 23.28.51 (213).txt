@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/another-typical-fantasy-romance.jpg]
-
-File to: [./zinmanga/uploads/another-typical-fantasy-romance.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/another-typical-fantasy-romance.jpg ./zinmanga/images/another-typical-fantasy-romance.jpg
-Unrecognized input file format --- perhaps you need -targa

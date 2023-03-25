@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/the-ghost-kings-wife-is-sassy-and-beautiful.jpg]
-
-File to: [./zinmanga/uploads/the-ghost-kings-wife-is-sassy-and-beautiful.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/the-ghost-kings-wife-is-sassy-and-beautiful.jpg ./zinmanga/images/the-ghost-kings-wife-is-sassy-and-beautiful.jpg
-Unrecognized input file format --- perhaps you need -targa

@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/please-take-a-step-out-of-the-portrait.jpg]
-
-File to: [./zinmanga/uploads/please-take-a-step-out-of-the-portrait.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/please-take-a-step-out-of-the-portrait.jpg ./zinmanga/images/please-take-a-step-out-of-the-portrait.jpg
-Unrecognized input file format --- perhaps you need -targa

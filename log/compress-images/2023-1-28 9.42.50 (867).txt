@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/10000-years-in-a-cultivation-sect-i-obtained-a-powerful-technique-from-the-start.jpg]
-
-File to: [./zinmanga/uploads/10000-years-in-a-cultivation-sect-i-obtained-a-powerful-technique-from-the-start.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/10000-years-in-a-cultivation-sect-i-obtained-a-powerful-technique-from-the-start.jpg ./zinmanga/images/10000-years-in-a-cultivation-sect-i-obtained-a-powerful-technique-from-the-start.jpg
-Unrecognized input file format --- perhaps you need -targa

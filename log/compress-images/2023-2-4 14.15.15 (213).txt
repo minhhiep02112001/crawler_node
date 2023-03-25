@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/abandoned-universe.jpg]
-
-File to: [./zinmanga/uploads/abandoned-universe.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/abandoned-universe.jpg ./zinmanga/images/abandoned-universe.jpg
-Unrecognized input file format --- perhaps you need -targa

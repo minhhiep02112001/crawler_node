@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/baozhao-mengzhu-qiao-mo-tou.jpg]
-
-File to: [./zinmanga/uploads/baozhao-mengzhu-qiao-mo-tou.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/baozhao-mengzhu-qiao-mo-tou.jpg ./zinmanga/images/baozhao-mengzhu-qiao-mo-tou.jpg
-GIF input is unsupported for legal reasons.  Sorry.

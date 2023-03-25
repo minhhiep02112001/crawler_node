@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/money-relations-with-the-god-of-wealth.jpg]
-
-File to: [./zinmanga/uploads/money-relations-with-the-god-of-wealth.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/money-relations-with-the-god-of-wealth.jpg ./zinmanga/images/money-relations-with-the-god-of-wealth.jpg
-Unrecognized input file format --- perhaps you need -targa

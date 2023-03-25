@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/new-guardian-with-benefits.jpg]
-
-File to: [./zinmanga/uploads/new-guardian-with-benefits.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/new-guardian-with-benefits.jpg ./zinmanga/images/new-guardian-with-benefits.jpg
-Unrecognized input file format --- perhaps you need -targa

@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/real-young-lady-pampered-by-bigshots-after-coming-home.jpg]
-
-File to: [./zinmanga/uploads/real-young-lady-pampered-by-bigshots-after-coming-home.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/real-young-lady-pampered-by-bigshots-after-coming-home.jpg ./zinmanga/images/real-young-lady-pampered-by-bigshots-after-coming-home.jpg
-Unrecognized input file format --- perhaps you need -targa

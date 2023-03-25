@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/i-will-live-as-a-supporting-role-in-this-life.jpg]
-
-File to: [./zinmanga/uploads/i-will-live-as-a-supporting-role-in-this-life.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/i-will-live-as-a-supporting-role-in-this-life.jpg ./zinmanga/images/i-will-live-as-a-supporting-role-in-this-life.jpg
-Unrecognized input file format --- perhaps you need -targa

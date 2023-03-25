@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/fox-kings-only-lover.jpg]
-
-File to: [./zinmanga/uploads/fox-kings-only-lover.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/fox-kings-only-lover.jpg ./zinmanga/images/fox-kings-only-lover.jpg
-Unrecognized input file format --- perhaps you need -targa

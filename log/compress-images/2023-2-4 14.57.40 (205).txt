@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/bad-prosecutor-sword-showdown.jpg]
-
-File to: [./zinmanga/uploads/bad-prosecutor-sword-showdown.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/bad-prosecutor-sword-showdown.jpg ./zinmanga/images/bad-prosecutor-sword-showdown.jpg
-Unrecognized input file format --- perhaps you need -targa

@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/beast-tamer-it-all-starts-with-mythical-rank-talent.jpg]
-
-File to: [./zinmanga/uploads/beast-tamer-it-all-starts-with-mythical-rank-talent.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/beast-tamer-it-all-starts-with-mythical-rank-talent.jpg ./zinmanga/images/beast-tamer-it-all-starts-with-mythical-rank-talent.jpg
-Unrecognized input file format --- perhaps you need -targa

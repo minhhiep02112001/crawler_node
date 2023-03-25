@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/this-book-is-not-available-for-subscription-under-the-age-of-18.jpg]
-
-File to: [./zinmanga/uploads/this-book-is-not-available-for-subscription-under-the-age-of-18.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/this-book-is-not-available-for-subscription-under-the-age-of-18.jpg ./zinmanga/images/this-book-is-not-available-for-subscription-under-the-age-of-18.jpg
-Unrecognized input file format --- perhaps you need -targa

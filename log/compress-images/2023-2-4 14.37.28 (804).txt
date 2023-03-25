@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/killer-crush.jpg]
-
-File to: [./zinmanga/uploads/killer-crush.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/killer-crush.jpg ./zinmanga/images/killer-crush.jpg
-Unrecognized input file format --- perhaps you need -targa

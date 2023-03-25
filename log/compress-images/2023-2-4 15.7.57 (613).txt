@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/tsurenai-kanojo-no-hitorijime.jpg]
-
-File to: [./zinmanga/uploads/tsurenai-kanojo-no-hitorijime.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/tsurenai-kanojo-no-hitorijime.jpg ./zinmanga/images/tsurenai-kanojo-no-hitorijime.jpg
-Unrecognized input file format --- perhaps you need -targa

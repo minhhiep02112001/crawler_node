@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/the-kiss-bet.jpg]
-
-File to: [./zinmanga/uploads/the-kiss-bet.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/the-kiss-bet.jpg ./zinmanga/images/the-kiss-bet.jpg
-Unrecognized input file format --- perhaps you need -targa

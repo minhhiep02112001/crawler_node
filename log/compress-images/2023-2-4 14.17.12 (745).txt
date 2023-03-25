@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/breaking-off-the-engagement-starts-the-onslaught-on-the-prince.jpg]
-
-File to: [./zinmanga/uploads/breaking-off-the-engagement-starts-the-onslaught-on-the-prince.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/breaking-off-the-engagement-starts-the-onslaught-on-the-prince.jpg ./zinmanga/images/breaking-off-the-engagement-starts-the-onslaught-on-the-prince.jpg
-Unrecognized input file format --- perhaps you need -targa

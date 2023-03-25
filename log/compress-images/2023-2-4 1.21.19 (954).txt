@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/the-forgotten-princess-wants-to-live-in-peace.jpg]
-
-File to: [./zinmanga/uploads/the-forgotten-princess-wants-to-live-in-peace.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/the-forgotten-princess-wants-to-live-in-peace.jpg ./zinmanga/images/the-forgotten-princess-wants-to-live-in-peace.jpg
-Unrecognized input file format --- perhaps you need -targa

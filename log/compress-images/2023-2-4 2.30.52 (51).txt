@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/the-wrong-way-to-use-healing-magic.jpg]
-
-File to: [./zinmanga/uploads/the-wrong-way-to-use-healing-magic.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/the-wrong-way-to-use-healing-magic.jpg ./zinmanga/images/the-wrong-way-to-use-healing-magic.jpg
-Unrecognized input file format --- perhaps you need -targa

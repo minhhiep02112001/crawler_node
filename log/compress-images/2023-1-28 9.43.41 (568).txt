@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/the-villain-is-obsessed-with-his-fake-wife.jpg]
-
-File to: [./zinmanga/uploads/the-villain-is-obsessed-with-his-fake-wife.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/the-villain-is-obsessed-with-his-fake-wife.jpg ./zinmanga/images/the-villain-is-obsessed-with-his-fake-wife.jpg
-Unrecognized input file format --- perhaps you need -targa

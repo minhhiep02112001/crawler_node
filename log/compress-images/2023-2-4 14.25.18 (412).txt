@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/bloodthirsty-man-trapped-bride.jpg]
-
-File to: [./zinmanga/uploads/bloodthirsty-man-trapped-bride.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/bloodthirsty-man-trapped-bride.jpg ./zinmanga/images/bloodthirsty-man-trapped-bride.jpg
-Unrecognized input file format --- perhaps you need -targa

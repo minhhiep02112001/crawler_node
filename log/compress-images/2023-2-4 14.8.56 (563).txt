@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/dear-door-yaoi.jpg]
-
-File to: [./zinmanga/uploads/dear-door-yaoi.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/dear-door-yaoi.jpg ./zinmanga/images/dear-door-yaoi.jpg
-Unrecognized input file format --- perhaps you need -targa

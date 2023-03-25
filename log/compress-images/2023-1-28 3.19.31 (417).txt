@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/a-nightmare-came-to-the-place-i-escaped.jpg]
-
-File to: [./zinmanga/uploads/a-nightmare-came-to-the-place-i-escaped.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/a-nightmare-came-to-the-place-i-escaped.jpg ./zinmanga/images/a-nightmare-came-to-the-place-i-escaped.jpg
-Unrecognized input file format --- perhaps you need -targa

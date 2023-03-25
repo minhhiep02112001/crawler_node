@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/i-grind-dungeons-around-the-world.jpg]
-
-File to: [./zinmanga/uploads/i-grind-dungeons-around-the-world.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/i-grind-dungeons-around-the-world.jpg ./zinmanga/images/i-grind-dungeons-around-the-world.jpg
-Unrecognized input file format --- perhaps you need -targa

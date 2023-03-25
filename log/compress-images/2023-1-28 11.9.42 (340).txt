@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/when-a-mage-revolts.jpg]
-
-File to: [./zinmanga/uploads/when-a-mage-revolts.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/when-a-mage-revolts.jpg ./zinmanga/images/when-a-mage-revolts.jpg
-Unrecognized input file format --- perhaps you need -targa

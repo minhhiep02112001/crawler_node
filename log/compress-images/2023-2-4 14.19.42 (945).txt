@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/can-i-take-it-back.jpg]
-
-File to: [./zinmanga/uploads/can-i-take-it-back.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/can-i-take-it-back.jpg ./zinmanga/images/can-i-take-it-back.jpg
-Unrecognized input file format --- perhaps you need -targa

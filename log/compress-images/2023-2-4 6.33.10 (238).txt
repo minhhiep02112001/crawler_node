@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/the-daughter-of-the-elemental-king.jpg]
-
-File to: [./zinmanga/uploads/the-daughter-of-the-elemental-king.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/the-daughter-of-the-elemental-king.jpg ./zinmanga/images/the-daughter-of-the-elemental-king.jpg
-Unrecognized input file format --- perhaps you need -targa

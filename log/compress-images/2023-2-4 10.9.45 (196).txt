@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/the-goal-is-to-be-selfmade.jpg]
-
-File to: [./zinmanga/uploads/the-goal-is-to-be-selfmade.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/the-goal-is-to-be-selfmade.jpg ./zinmanga/images/the-goal-is-to-be-selfmade.jpg
-Unrecognized input file format --- perhaps you need -targa

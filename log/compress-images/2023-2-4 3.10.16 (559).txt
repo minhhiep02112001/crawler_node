@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/im-the-villainess-but-im-so-popular.jpg]
-
-File to: [./zinmanga/uploads/im-the-villainess-but-im-so-popular.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/im-the-villainess-but-im-so-popular.jpg ./zinmanga/images/im-the-villainess-but-im-so-popular.jpg
-Unrecognized input file format --- perhaps you need -targa

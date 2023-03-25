@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/hard-carry-support.jpg]
-
-File to: [./zinmanga/uploads/hard-carry-support.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/hard-carry-support.jpg ./zinmanga/images/hard-carry-support.jpg
-Unrecognized input file format --- perhaps you need -targa

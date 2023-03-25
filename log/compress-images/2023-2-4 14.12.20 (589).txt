@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/i-am-really-not-a-child-of-luck.jpg]
-
-File to: [./zinmanga/uploads/i-am-really-not-a-child-of-luck.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/i-am-really-not-a-child-of-luck.jpg ./zinmanga/images/i-am-really-not-a-child-of-luck.jpg
-Unrecognized input file format --- perhaps you need -targa

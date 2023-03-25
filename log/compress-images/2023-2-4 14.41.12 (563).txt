@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/rude-men-all-want-to-marry-to-me.jpg]
-
-File to: [./zinmanga/uploads/rude-men-all-want-to-marry-to-me.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/rude-men-all-want-to-marry-to-me.jpg ./zinmanga/images/rude-men-all-want-to-marry-to-me.jpg
-Unrecognized input file format --- perhaps you need -targa

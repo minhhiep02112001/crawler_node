@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/cultivation-i-inherite-the-strongest-account-in-a-sect-simulator.jpg]
-
-File to: [./zinmanga/uploads/cultivation-i-inherite-the-strongest-account-in-a-sect-simulator.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/cultivation-i-inherite-the-strongest-account-in-a-sect-simulator.jpg ./zinmanga/images/cultivation-i-inherite-the-strongest-account-in-a-sect-simulator.jpg
-Unrecognized input file format --- perhaps you need -targa

@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/divine-hint-reporting-an-escaped-convict-from-the-start.jpg]
-
-File to: [./zinmanga/uploads/divine-hint-reporting-an-escaped-convict-from-the-start.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/divine-hint-reporting-an-escaped-convict-from-the-start.jpg ./zinmanga/images/divine-hint-reporting-an-escaped-convict-from-the-start.jpg
-Unrecognized input file format --- perhaps you need -targa

@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/ouroboros-official.jpg]
-
-File to: [./zinmanga/uploads/ouroboros-official.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/ouroboros-official.jpg ./zinmanga/images/ouroboros-official.jpg
-Unrecognized input file format --- perhaps you need -targa

@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/belle-and-the-beasts-labor-contract.jpg]
-
-File to: [./zinmanga/uploads/belle-and-the-beasts-labor-contract.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/belle-and-the-beasts-labor-contract.jpg ./zinmanga/images/belle-and-the-beasts-labor-contract.jpg
-Unrecognized input file format --- perhaps you need -targa

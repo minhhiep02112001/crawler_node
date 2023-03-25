@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/my-villain-fiance-is-interfering-with-my-flowery-path.jpg]
-
-File to: [./zinmanga/uploads/my-villain-fiance-is-interfering-with-my-flowery-path.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/my-villain-fiance-is-interfering-with-my-flowery-path.jpg ./zinmanga/images/my-villain-fiance-is-interfering-with-my-flowery-path.jpg
-Unrecognized input file format --- perhaps you need -targa

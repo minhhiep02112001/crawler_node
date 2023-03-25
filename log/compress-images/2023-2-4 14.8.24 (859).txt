@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/the-eccentric-duchess.jpg]
-
-File to: [./zinmanga/uploads/the-eccentric-duchess.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/the-eccentric-duchess.jpg ./zinmanga/images/the-eccentric-duchess.jpg
-Unrecognized input file format --- perhaps you need -targa

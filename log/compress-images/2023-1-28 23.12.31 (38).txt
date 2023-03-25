@@ -1,7 +1,0 @@
-File from: [./zinmanga/images/*.{jpg,JPG,jpeg,JPEG,png,svg,gif}]
-
-File to: [-]
-
-Compression algorithm: [-]
-
-Description:  Directory is empty!: 

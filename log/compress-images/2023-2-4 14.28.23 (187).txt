@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/your-face-looks-like-a-peach-blossom.jpg]
-
-File to: [./zinmanga/uploads/your-face-looks-like-a-peach-blossom.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/your-face-looks-like-a-peach-blossom.jpg ./zinmanga/images/your-face-looks-like-a-peach-blossom.jpg
-Unrecognized input file format --- perhaps you need -targa

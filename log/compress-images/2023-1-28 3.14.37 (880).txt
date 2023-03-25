@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/i-accidentally-seduced-the-male-leads-younger-brother.jpg]
-
-File to: [./zinmanga/uploads/i-accidentally-seduced-the-male-leads-younger-brother.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/i-accidentally-seduced-the-male-leads-younger-brother.jpg ./zinmanga/images/i-accidentally-seduced-the-male-leads-younger-brother.jpg
-Unrecognized input file format --- perhaps you need -targa

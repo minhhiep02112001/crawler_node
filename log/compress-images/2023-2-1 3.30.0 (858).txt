@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/truly-refuse-to-be-a-witch.jpg]
-
-File to: [./zinmanga/uploads/truly-refuse-to-be-a-witch.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/truly-refuse-to-be-a-witch.jpg ./zinmanga/images/truly-refuse-to-be-a-witch.jpg
-Unrecognized input file format --- perhaps you need -targa

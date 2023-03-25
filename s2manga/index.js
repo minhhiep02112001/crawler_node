@@ -11,21 +11,23 @@ var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
 
 const compress_images = require("compress-images");
 
-INPUT_path_to_your_images = "./s2manga/images/*.{jpg,JPG,jpeg,JPEG,png,svg,gif}";
-OUTPUT_path = "./s2manga/uploads/";
+var INPUT_path_to_your_images = "./s2manga/images/*.{jpg,JPG,jpeg,JPEG,png,svg,gif}";
+var OUTPUT_path = "./s2manga/uploads/";
 
-const { default: axios } = require('axios');
+const {
+    default: axios
+} = require('axios');
 const FormData = require('form-data');
 
 const domain = 'http://154.53.34.17:80'
-// const domain = 'http://localhost:8008'
+// const domain = 'http://localhost:8000'
 const url_api = {
     'chapter': domain + '/api/create-chapter',
     'get_data': domain + '/api/get-data-table',
     'story': domain + '/api/create-story',
     'category': domain + '/api/create-category',
 };
- 
+
 const pool = mysql.createPool({
     connectionLimit: 100, //important
     host: "154.53.34.17",
@@ -51,6 +53,10 @@ const domain_crawler = 'https://s2manga.com';
     await crawler_chapter_to_story(); 
 })();
 
+
+
+
+
 async function crawler_chapter_to_story() {
     var storys = await getAllDataTable('st_story', 0); 
     for (let index = 0; index < storys.length; index++) {
@@ -60,10 +66,6 @@ async function crawler_chapter_to_story() {
     }
 }
 
-
-async function crawler_to_category(){
-    
-}
 
 async function crawler_story_in_url(url) {
     let p = 1;
@@ -92,7 +94,7 @@ async function crawler_story_in_url(url) {
                 result.push(href);
             }
         });
-        
+
         if (result.length > 0) {
             let i = 0
             for (let item of result) {
@@ -104,7 +106,7 @@ async function crawler_story_in_url(url) {
         } else {
             break;
         }
-        console.log('\n Done '+ url+ ':' + p + '---------------------------------------------------------');
+        console.log('\n Done ' + url + ':' + p + '---------------------------------------------------------');
         ++p;
     }
 
@@ -114,7 +116,7 @@ async function crawler_story_in_url(url) {
 
 
 async function crawler_category() { // cào category
-    try { 
+    try {
         const browser = await puppeteer.launch({
             headless: false
         });
@@ -125,12 +127,12 @@ async function crawler_category() { // cào category
         var $ = cheerio.load(content);
         await browser.close();
         let arr = [];
-        $('header .sub-nav_list li').find('a').each((i , item)=> {
+        $('header .sub-nav_list li').find('a').each((i, item) => {
             arr.push({
-                'title' : $(item).html(),
-                'crawler_href' : $(item).attr('href')
+                'title': $(item).html(),
+                'crawler_href': $(item).attr('href')
             })
-        }); 
+        });
 
         for (let item of arr) {
             let slug = convertToSlug(item.title);
@@ -139,7 +141,7 @@ async function crawler_category() { // cào category
             var obj = {
                 'title': item.title,
                 slug,
-                'crawler_href' : item.crawler_href,
+                'crawler_href': item.crawler_href,
                 'is_status': 0,
                 meta_title,
                 meta_description,
@@ -153,6 +155,7 @@ async function crawler_category() { // cào category
         console.log(err);
     }
 }
+
 function handle_category(item) {
     return new Promise((resolve, reject) => {
         pool.query(`select id
@@ -164,18 +167,15 @@ function handle_category(item) {
             if (elements.length > 0) {
                 return resolve(elements[0].id);
             } else {
-                pool.query("INSERT INTO st_category SET ?",
-                    {
-                        ...item,
-                        parent_id: 0
+                pool.query("INSERT INTO st_category SET ?", {
+                    ...item,
+                    parent_id: 0
+                }, function (error, results) {
+                    if (error) {
+                        return reject(error);
                     }
-                    , function (error, results) {
-                        if (error) {
-                            return reject(error);
-                        }
-                        return resolve(results.insertId);
-                    }
-                )
+                    return resolve(results.insertId);
+                })
             }
         });
     });
@@ -224,7 +224,7 @@ async function crawler_story(crawler_href, obj = {}) {
     const browser = await puppeteer.launch({
         headless: false
     });
-    try { 
+    try {
         const page = await browser.newPage();
 
         await page.goto(crawler_href);
@@ -232,14 +232,14 @@ async function crawler_story(crawler_href, obj = {}) {
         var $ = cheerio.load(content_page);
         let title = $(".site-content").find('.post-title h1').text().trim();
         let regex = /Hot/i;
-        title =title.replace(regex, '');
-        title =title.replace('\n', '');
+        title = title.replace(regex, '');
+        title = title.replace('\n', '');
         let slug = convertToSlug(title);
         let meta_title = `${title} On 9Manhwa`;
         let meta_description = `Read ${title} Full chapters Online, English sub on your computer, Smartphone, and Mobile...Chapters updated daily for comics lovers`;
 
-        let thumbnail = $('.summary_image img').attr('src');//og:image
-       
+        let thumbnail = $('.summary_image img').attr('src'); //og:image
+
         var author = [];
         $(".site-content").find('.summary_content .post-content_item .author-content a').each((i, item) => {
             let t = $(item).text();
@@ -260,7 +260,7 @@ async function crawler_story(crawler_href, obj = {}) {
             });
         })
         let arr = []
-        
+
         $('.description-summary').find('p').each(function (i, node) {
             arr.push($(node).text());
         });
@@ -268,8 +268,8 @@ async function crawler_story(crawler_href, obj = {}) {
         await Helper.sleep(1000);
         // dowload image :
         var viewSource = await page.goto(thumbnail);
-        let thum = `./s2manga/images/${slug}.jpg`; 
-        
+        let thum = `./s2manga/images/${slug}.jpg`;
+
         await fs.writeFile(thum, await viewSource.buffer(), function (err) {
             if (err) {
                 return console.log(err);
@@ -303,14 +303,16 @@ async function crawler_story(crawler_href, obj = {}) {
             'author': JSON.stringify(author),
             meta_description,
             'folder': 'images/s2manga'
-        } 
+        }
         let form_data = convertFormData(object, files);
 
         await axios({
             method: "post",
             url: url_api.story,
             data: form_data,
-            headers: { "Content-Type": "multipart/form-data" },
+            headers: {
+                "Content-Type": "multipart/form-data"
+            },
         }).then(function (response) {
             let respon = response.data;
             for (let file of files) {
@@ -330,7 +332,7 @@ async function crawler_story(crawler_href, obj = {}) {
     await browser.close();
 }
 
- 
+
 async function crawler_story_chapter(item) {
     const browser = await puppeteer.launch({
         headless: false
@@ -353,7 +355,7 @@ async function crawler_story_chapter(item) {
         });
 
         await browser.close();
-        let data = chapters.reverse(); 
+        let data = chapters.reverse();
         for (let index = 0; index < data.length; index++) {
             let element = data[index];
             await crawler_chapter(element.crawler_url, item.id, index + 1);
@@ -365,14 +367,21 @@ async function crawler_story_chapter(item) {
 }
 
 
+
+
 async function crawler_chapter(url_chapter, story_id = 0, chap = 0) {
     var puppeteer_extra = require('puppeteer-extra')
     // add stealth plugin and use defaults (all evasion techniques) 
     var StealthPlugin = require('puppeteer-extra-plugin-stealth')
     puppeteer_extra.use(StealthPlugin())
-    var { executablePath } = require('puppeteer')
+    var {
+        executablePath
+    } = require('puppeteer')
     // puppeteer usage as normal 
-    await puppeteer_extra.launch({ headless: true, executablePath: executablePath() }).then(async browser => {
+    await puppeteer_extra.launch({
+        headless: true,
+        executablePath: executablePath()
+    }).then(async browser => {
         try {
             const page = await browser.newPage()
             await page.goto(url_chapter)
@@ -385,22 +394,22 @@ async function crawler_chapter(url_chapter, story_id = 0, chap = 0) {
             $(".site-content").find('.page-break').each(function (index, item) {
                 let obj = {
                     index,
-                    'url' : $(item).find('img').attr('src').trim(),
-                    'path' : convertToSlug(title+ ' img ' +(index+1))+'.jpg',
+                    'url': $(item).find('img').attr('src').trim(),
+                    'path': convertToSlug(title + ' img ' + (index + 1)) + '.jpg',
                 }
                 images.push(obj);
             });
-
-            let files = await saveImageInFolder(page, browser, images , './s2manga/images');
             
+            let files = await saveImageInFolder(page, browser, images, './s2manga/images' ,  convertToSlug(title));
+            console.log(files);
             var obj = {
                 'title': title || '',
                 'story_id': story_id || 0,
                 'chapter': chap,
                 'crawler_href': url_chapter,
-                'folder': 'images/s2manga', 
+                'folder': 'images/s2manga',
             }
-           
+
             let form_data = convertFormData(obj, files);
 
             await axios({
@@ -411,8 +420,10 @@ async function crawler_chapter(url_chapter, story_id = 0, chap = 0) {
                     'Content-Type': `multipart/form-data; ${form_data.getBoundary()}`,
                 },
             }).then(async function (response) {
+                console.log(response);
+                return;
                 let respon = response.data;
-                 
+
                 console.log("\n Done chap:" + chap + " - id:" + respon.id + "  Story_id:" + story_id + ' crawler manhwa top 1.js');
             }).catch(async function (error, status) {   
                 console.log(error);
@@ -431,30 +442,10 @@ async function crawler_chapter(url_chapter, story_id = 0, chap = 0) {
         }
         await browser.close()
     })
-    console.log("\n ---------------Done chap " + chap
-        + "------------");
+    console.log("\n ---------------Done chap " + chap +
+        "------------");
 }
 
-async function saveImageInFolder(page , browser, images = [], folder = ''){
-    var files = [];
-    for (let obj of images) {   
-        await page.click('div.reading-content img#image-' + obj.index); 
-        let page_new = await browser.newPage();        // open new tab
-        var viewSource = await page_new.goto(obj.url);
-        let thum = `${folder}/${obj.path}`;
-        await fs.writeFile(thum, await viewSource.buffer(), function (err) {
-            if (err) {
-                return console.log(err);
-            }
-        }); 
-        await page_new.close();
-        files.push({
-            'content': fs.createReadStream(`${thum}`),
-            'file': thum
-        })
-    }
-    return files;
-}
 
 function handle_category(item) {
     return new Promise((resolve, reject) => {
@@ -467,18 +458,15 @@ function handle_category(item) {
             if (elements.length > 0) {
                 return resolve(elements[0].id);
             } else {
-                pool.query("INSERT INTO st_category SET ?",
-                    {
-                        ...item,
-                        parent_id: 0
+                pool.query("INSERT INTO st_category SET ?", {
+                    ...item,
+                    parent_id: 0
+                }, function (error, results) {
+                    if (error) {
+                        return reject(error);
                     }
-                    , function (error, results) {
-                        if (error) {
-                            return reject(error);
-                        }
-                        return resolve(results.insertId);
-                    }
-                )
+                    return resolve(results.insertId);
+                })
             }
         });
     });
@@ -505,9 +493,9 @@ function getAllDataTable(table, offset = 0) {
         });
     });
 
-}; 
+};
 
-async function pushApiData(url,  form_data) {
+async function pushApiData(url, form_data) {
     if (data) {
         return await axios({
             method: "post",
@@ -516,7 +504,7 @@ async function pushApiData(url,  form_data) {
             headers: {},
         })
     }
-} 
+}
 
 function convertFormData(myObject = {}, files = []) {
     var form = new FormData();
@@ -526,17 +514,92 @@ function convertFormData(myObject = {}, files = []) {
     });
 
     if (files.length > 0) {
-        var index = 1
-
-        for (let file of files) {
-            if (fs.existsSync(file)) {
-                let fileStream = fs.createReadStream(file);
-                // Pass file stream directly to form
-                form.append('file_' + index, fileStream, file);
-            }
+        var index = 0
+        for (let obj of files) {
+            let fileStream = obj.content;
+            let file = obj.file;
+            form.append('file_' + index, fileStream, file);
             index++;
         }
     }
     return form;
 }
- 
+
+
+async function saveImageInFolder(page, browser, images = [], folder = '', slug = '') {
+    var files = [];
+    for (let obj of images) {
+        await page.click('div.reading-content img#image-' + obj.index);
+        let page_new = await browser.newPage(); // open new tab
+        var viewSource = await page_new.goto(obj.url);
+        let thum = `${folder}/${obj.path}`;
+        await fs.writeFile(thum, await viewSource.buffer(), function (err) {
+            if (err) {
+                return console.log(err);
+            }
+        });
+        await page_new.close();
+        compress_Images( thum);
+        await Helper.sleep(500);
+        if (fs.existsSync(`./s2manga/uploads/${obj.path}`)) {
+            fs.unlink(thum, function (err) {
+                if (err) throw err;
+            }); 
+            thum = `./s2manga/uploads/${obj.path}`;
+        }
+        files.push({
+            'content': fs.createReadStream(`${thum}`),
+            'file': thum
+        })
+    }
+    return files;
+}
+
+async function compress_Images(input) {
+    // let input =  "./s2manga/images/"+ slug +"*.{jpg,JPG,jpeg,JPEG,png,svg,gif}";
+    // console.log(input);
+    // return;
+    try {
+        await compress_images(
+           input,
+            OUTPUT_path, {
+                compress_force: false,
+                statistic: true,
+                autoupdate: false
+            },
+            false, {
+                jpg: {
+                    engine: "mozjpeg",
+                    command: ["-quality", "60"]
+                }
+            }, {
+                png: {
+                    engine: "pngquant",
+                    command: ["--quality=20-50", "-o"]
+                }
+            }, {
+                svg: {
+                    engine: "svgo",
+                    command: "--multipass"
+                }
+            }, {
+                gif: {
+                    engine: "gifsicle",
+                    command: ["--colors", "64", "--use-col=web"],
+                },
+            },
+            async function (error, completed, statistic) {
+                if (error) {
+                    console.log("==========");
+                    fs.unlink(statistic.path_out_new, function (err) {
+                        if (err) throw err;
+                        console.log("File deleted!");
+                    });
+                    console.log("==========");
+                } 
+            }
+        );
+    } catch (e) {
+        return;
+    }
+}

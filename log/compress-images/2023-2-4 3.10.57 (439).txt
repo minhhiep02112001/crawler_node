@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/masters-of-lightning-knives-official.jpg]
-
-File to: [./zinmanga/uploads/masters-of-lightning-knives-official.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/masters-of-lightning-knives-official.jpg ./zinmanga/images/masters-of-lightning-knives-official.jpg
-Unrecognized input file format --- perhaps you need -targa

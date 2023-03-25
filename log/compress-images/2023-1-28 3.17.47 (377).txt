@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/i-became-a-guide-for-my-childhood-friend.jpg]
-
-File to: [./zinmanga/uploads/i-became-a-guide-for-my-childhood-friend.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/i-became-a-guide-for-my-childhood-friend.jpg ./zinmanga/images/i-became-a-guide-for-my-childhood-friend.jpg
-Unrecognized input file format --- perhaps you need -targa

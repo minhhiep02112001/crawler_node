@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/deep.jpg]
-
-File to: [./zinmanga/uploads/deep.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/deep.jpg ./zinmanga/images/deep.jpg
-Unrecognized input file format --- perhaps you need -targa

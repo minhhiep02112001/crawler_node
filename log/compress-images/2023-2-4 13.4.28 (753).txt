@@ -1,8 +1,0 @@
-File from: [./zinmanga/images/who-made-me-a-princess.jpg]
-
-File to: [./zinmanga/uploads/who-made-me-a-princess.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: E:\Document\nodejs\crawl-nodejs\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./zinmanga/uploads/who-made-me-a-princess.jpg ./zinmanga/images/who-made-me-a-princess.jpg
-Unrecognized input file format --- perhaps you need -targa
